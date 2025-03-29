@@ -1,0 +1,346 @@
+Training round:0
+Client0-> Shapley value: 0.08090022898146083
+Client1-> Shapley value: 0.08332468291360227
+Client2-> Shapley value: 0.06646317469458728
+Client3-> Shapley value: 0.07651261818550872
+Client4-> Shapley value: 0.11270139036434047
+Client5-> Shapley value: 0.027449048641655184
+Client6-> Shapley value: 0.0642026962623709
+Client7-> Shapley value: 0.11480233344057228
+Client8-> Shapley value: 0.0347976987678853
+Client9-> Shapley value: 0.052046108304981215
+Training round:1
+Client0-> Shapley value: 0.2663082037732085
+Client1-> Shapley value: 0.2236075278706652
+Client2-> Shapley value: 0.21854986088774164
+Client3-> Shapley value: 0.2540878456815208
+Client4-> Shapley value: 0.2871789824631476
+Client5-> Shapley value: 0.20328719066406675
+Client6-> Shapley value: 0.2139294859041613
+Client7-> Shapley value: 0.2870716840107604
+Client8-> Shapley value: 0.17237500109212112
+Client9-> Shapley value: 0.20530053835224218
+Training round:2
+Client0-> Shapley value: 0.25759233490972916
+Client1-> Shapley value: 0.21860158281824582
+Client2-> Shapley value: 0.19617963148645629
+Client3-> Shapley value: 0.2551044792961823
+Client4-> Shapley value: 0.26313121021582364
+Client5-> Shapley value: 0.21225819728834924
+Client6-> Shapley value: 0.20946032624869138
+Client7-> Shapley value: 0.26341427519680954
+Client8-> Shapley value: 0.18164893492031342
+Client9-> Shapley value: 0.20122486222831037
+Training round:3
+Client0-> Shapley value: 0.2815510692498669
+Client1-> Shapley value: 0.23298664978414627
+Client2-> Shapley value: 0.24199524360201347
+Client3-> Shapley value: 0.2862879654796668
+Client4-> Shapley value: 0.2908585928971806
+Client5-> Shapley value: 0.22549800602374245
+Client6-> Shapley value: 0.22339167059571646
+Client7-> Shapley value: 0.29028294826783824
+Client8-> Shapley value: 0.20322578053468124
+Client9-> Shapley value: 0.24746519985495416
+Training round:4
+Client0-> Shapley value: 0.26811665213770325
+Client1-> Shapley value: 0.22944816367493737
+Client2-> Shapley value: 0.2495370195419699
+Client3-> Shapley value: 0.25938240880215596
+Client4-> Shapley value: 0.25934351070059664
+Client5-> Shapley value: 0.22139165219333437
+Client6-> Shapley value: 0.21451019274967684
+Client7-> Shapley value: 0.2692351796560817
+Client8-> Shapley value: 0.19938609528320814
+Client9-> Shapley value: 0.23558795590091638
+Training round:5
+Client0-> Shapley value: 0.27745184937009093
+Client1-> Shapley value: 0.23796760787566493
+Client2-> Shapley value: 0.2343157218010337
+Client3-> Shapley value: 0.2671370177909182
+Client4-> Shapley value: 0.26858887269541065
+Client5-> Shapley value: 0.22645462359543198
+Client6-> Shapley value: 0.21035370699785377
+Client7-> Shapley value: 0.2827268383569186
+Client8-> Shapley value: 0.2006351663558571
+Client9-> Shapley value: 0.23751758784055718
+Training round:6
+Client0-> Shapley value: 0.2895434015090502
+Client1-> Shapley value: 0.251042737413651
+Client2-> Shapley value: 0.27923520055239764
+Client3-> Shapley value: 0.28832672548199456
+Client4-> Shapley value: 0.29247856561942065
+Client5-> Shapley value: 0.22764113533591462
+Client6-> Shapley value: 0.25351970910868327
+Client7-> Shapley value: 0.2993556917423294
+Client8-> Shapley value: 0.2223956392161429
+Client9-> Shapley value: 0.2434264545639356
+Training round:7
+Client0-> Shapley value: 0.2919455126085607
+Client1-> Shapley value: 0.2531111112268513
+Client2-> Shapley value: 0.2802148161347581
+Client3-> Shapley value: 0.2890571626642393
+Client4-> Shapley value: 0.29075424976292097
+Client5-> Shapley value: 0.2375074014383021
+Client6-> Shapley value: 0.24480686171187307
+Client7-> Shapley value: 0.2904118918789127
+Client8-> Shapley value: 0.2277803996173793
+Client9-> Shapley value: 0.24849232617351766
+Training round:8
+Client0-> Shapley value: 0.28257024891319693
+Client1-> Shapley value: 0.2473920647192881
+Client2-> Shapley value: 0.2627886420598735
+Client3-> Shapley value: 0.27965293103267275
+Client4-> Shapley value: 0.2751346527347488
+Client5-> Shapley value: 0.25256547288446823
+Client6-> Shapley value: 0.14490860444370413
+Client7-> Shapley value: 0.280964548349696
+Client8-> Shapley value: 0.2209087316557844
+Client9-> Shapley value: 0.2527731386205509
+Training round:9
+Client0-> Shapley value: 0.29219643665211514
+Client1-> Shapley value: 0.25706957205735825
+Client2-> Shapley value: 0.2626636118564026
+Client3-> Shapley value: 0.28896218897015946
+Client4-> Shapley value: 0.29239405648260514
+Client5-> Shapley value: 0.24540250582827472
+Client6-> Shapley value: 0.24004564536784692
+Client7-> Shapley value: 0.2958613937257458
+Client8-> Shapley value: 0.22496970569488225
+Client9-> Shapley value: 0.2737478741971903
+Training round:10
+Client0-> Shapley value: 0.27632130654873677
+Client1-> Shapley value: 0.2603861129394286
+Client2-> Shapley value: 0.2616361100916511
+Client3-> Shapley value: 0.2717537148683158
+Client4-> Shapley value: 0.26682405753268146
+Client5-> Shapley value: 0.2360092674692472
+Client6-> Shapley value: 0.24289073353564294
+Client7-> Shapley value: 0.27414905169495823
+Client8-> Shapley value: 0.22940464842098726
+Client9-> Shapley value: 0.25628056487551454
+Training round:11
+Client0-> Shapley value: 0.28992963527087817
+Client1-> Shapley value: 0.27700000366678945
+Client2-> Shapley value: 0.2824333268735144
+Client3-> Shapley value: 0.28596668580064066
+Client4-> Shapley value: 0.2872407615736678
+Client5-> Shapley value: 0.24830371831302292
+Client6-> Shapley value: 0.24486294968260655
+Client7-> Shapley value: 0.2792296324063231
+Client8-> Shapley value: 0.21862221674786672
+Client9-> Shapley value: 0.26895185780745967
+Training round:12
+Client0-> Shapley value: 0.2907009442095403
+Client1-> Shapley value: 0.2738129698016022
+Client2-> Shapley value: 0.2800342625489941
+Client3-> Shapley value: 0.2950268594755067
+Client4-> Shapley value: 0.2957926036583053
+Client5-> Shapley value: 0.24381203866667214
+Client6-> Shapley value: 0.27031110475460707
+Client7-> Shapley value: 0.28627222252112844
+Client8-> Shapley value: 0.2391935208881343
+Client9-> Shapley value: 0.26627962539593386
+Training round:13
+Client0-> Shapley value: 0.29521879526200123
+Client1-> Shapley value: 0.27193756799691576
+Client2-> Shapley value: 0.2856914319452783
+Client3-> Shapley value: 0.29091773852311736
+Client4-> Shapley value: 0.2868500035354702
+Client5-> Shapley value: 0.256464264419659
+Client6-> Shapley value: 0.22282167934078403
+Client7-> Shapley value: 0.29043728661127205
+Client8-> Shapley value: 0.2371055611936503
+Client9-> Shapley value: 0.2730224921353279
+Training round:14
+Client0-> Shapley value: 0.29330370819600127
+Client1-> Shapley value: 0.2640267249058789
+Client2-> Shapley value: 0.28497355778223593
+Client3-> Shapley value: 0.28726032261968265
+Client4-> Shapley value: 0.28637883867378583
+Client5-> Shapley value: 0.24997223728390644
+Client6-> Shapley value: 0.26600449563807255
+Client7-> Shapley value: 0.29433703371298997
+Client8-> Shapley value: 0.22190051699283905
+Client9-> Shapley value: 0.2662933827944539
+Training round:15
+Client0-> Shapley value: 0.2902917964039023
+Client1-> Shapley value: 0.27813941173294837
+Client2-> Shapley value: 0.27776216226753087
+Client3-> Shapley value: 0.2868600654460131
+Client4-> Shapley value: 0.2877698463028069
+Client5-> Shapley value: 0.2523388717146148
+Client6-> Shapley value: 0.2630410141966963
+Client7-> Shapley value: 0.2898201087401025
+Client8-> Shapley value: 0.23330954202110832
+Client9-> Shapley value: 0.26347991457534214
+Training round:16
+Client0-> Shapley value: 0.2895594025966981
+Client1-> Shapley value: 0.2769220878601705
+Client2-> Shapley value: 0.2816468290787527
+Client3-> Shapley value: 0.2867305510968126
+Client4-> Shapley value: 0.28546271142032403
+Client5-> Shapley value: 0.2576764675754086
+Client6-> Shapley value: 0.27329946332980726
+Client7-> Shapley value: 0.28235001534854304
+Client8-> Shapley value: 0.24330555418969466
+Client9-> Shapley value: 0.26390118719566436
+Training round:17
+Client0-> Shapley value: 0.2816574068533048
+Client1-> Shapley value: 0.2600083315262089
+Client2-> Shapley value: 0.26322036070956123
+Client3-> Shapley value: 0.27968889943979414
+Client4-> Shapley value: 0.2813259216922302
+Client5-> Shapley value: 0.2555416747927668
+Client6-> Shapley value: 0.23208333965804834
+Client7-> Shapley value: 0.2828814787445245
+Client8-> Shapley value: 0.24330276830328826
+Client9-> Shapley value: 0.26119074528967906
+Training round:18
+Client0-> Shapley value: 0.27877778063217795
+Client1-> Shapley value: 0.25422963858754544
+Client2-> Shapley value: 0.26285925204003296
+Client3-> Shapley value: 0.2727814783100729
+Client4-> Shapley value: 0.27451111238311837
+Client5-> Shapley value: 0.25679261402951353
+Client6-> Shapley value: 0.23302965500840436
+Client7-> Shapley value: 0.26737778081938063
+Client8-> Shapley value: 0.24044445957298632
+Client9-> Shapley value: 0.25542961916437856
+Training round:19
+Client0-> Shapley value: 0.2903615150738647
+Client1-> Shapley value: 0.2742342657591932
+Client2-> Shapley value: 0.2834416797788683
+Client3-> Shapley value: 0.29330858939066135
+Client4-> Shapley value: 0.2903141549261158
+Client5-> Shapley value: 0.2692485514377791
+Client6-> Shapley value: 0.24215369293140981
+Client7-> Shapley value: 0.2884190489769613
+Client8-> Shapley value: 0.24558954283831608
+Client9-> Shapley value: 0.2715213074491767
+Training round:20
+Client0-> Shapley value: 0.2880761930472634
+Client1-> Shapley value: 0.27452037570180055
+Client2-> Shapley value: 0.2826431397959666
+Client3-> Shapley value: 0.2871904778023243
+Client4-> Shapley value: 0.2863097988345006
+Client5-> Shapley value: 0.2696407418008205
+Client6-> Shapley value: 0.2775534297975283
+Client7-> Shapley value: 0.28343175529014497
+Client8-> Shapley value: 0.24796745208678433
+Client9-> Shapley value: 0.2649761888952483
+Training round:21
+Client0-> Shapley value: 0.2930648241330075
+Client1-> Shapley value: 0.27830646683772414
+Client2-> Shapley value: 0.2843824164183051
+Client3-> Shapley value: 0.29345647852729856
+Client4-> Shapley value: 0.288910199922544
+Client5-> Shapley value: 0.2668657388400149
+Client6-> Shapley value: 0.2590537173328577
+Client7-> Shapley value: 0.29416389183865643
+Client8-> Shapley value: 0.2500147976809079
+Client9-> Shapley value: 0.2720203716997749
+Training round:22
+Client0-> Shapley value: 0.2904058145704092
+Client1-> Shapley value: 0.2681655965390652
+Client2-> Shapley value: 0.2824521326119936
+Client3-> Shapley value: 0.2875002667938584
+Client4-> Shapley value: 0.28910687924535183
+Client5-> Shapley value: 0.26482143694603943
+Client6-> Shapley value: 0.2592785758552727
+Client7-> Shapley value: 0.28552089745878534
+Client8-> Shapley value: 0.2537656206854435
+Client9-> Shapley value: 0.2791259364082071
+Training round:23
+Client0-> Shapley value: 0.29039576866481676
+Client1-> Shapley value: 0.2742839869131487
+Client2-> Shapley value: 0.26906058416953155
+Client3-> Shapley value: 0.28773359390635994
+Client4-> Shapley value: 0.2854609827279415
+Client5-> Shapley value: 0.26486096846521207
+Client6-> Shapley value: 0.27573917494722117
+Client7-> Shapley value: 0.28544735321134457
+Client8-> Shapley value: 0.2564330659609621
+Client9-> Shapley value: 0.2767101950825207
+Training round:24
+Client0-> Shapley value: 0.2894582114916629
+Client1-> Shapley value: 0.2751211617437621
+Client2-> Shapley value: 0.2843220944678971
+Client3-> Shapley value: 0.28992287369159164
+Client4-> Shapley value: 0.2865033064963956
+Client5-> Shapley value: 0.2673410036497649
+Client6-> Shapley value: 0.26469325085007983
+Client7-> Shapley value: 0.2908238053873735
+Client8-> Shapley value: 0.2557822754064567
+Client9-> Shapley value: 0.27740226295732323
+Training round:25
+Client0-> Shapley value: 0.2905907379808249
+Client1-> Shapley value: 0.2687601681660723
+Client2-> Shapley value: 0.27869445885773053
+Client3-> Shapley value: 0.2863203687248406
+Client4-> Shapley value: 0.2889824126053738
+Client5-> Shapley value: 0.27518982881749104
+Client6-> Shapley value: 0.2664851780842854
+Client7-> Shapley value: 0.28556574908671556
+Client8-> Shapley value: 0.2566148089589898
+Client9-> Shapley value: 0.27702038624772335
+Training round:26
+Client0-> Shapley value: 0.2895963040214998
+Client1-> Shapley value: 0.2725666786233583
+Client2-> Shapley value: 0.2792074175344573
+Client3-> Shapley value: 0.2887592627494423
+Client4-> Shapley value: 0.29200000260715137
+Client5-> Shapley value: 0.26777036791598363
+Client6-> Shapley value: 0.2688481435179711
+Client7-> Shapley value: 0.2824889048933983
+Client8-> Shapley value: 0.25789260450336665
+Client9-> Shapley value: 0.2763629492234301
+Training round:27
+Client0-> Shapley value: 0.2922703758985908
+Client1-> Shapley value: 0.2717185111509429
+Client2-> Shapley value: 0.26653705068208555
+Client3-> Shapley value: 0.2915666768396342
+Client4-> Shapley value: 0.29557405163844425
+Client5-> Shapley value: 0.27309256378147334
+Client6-> Shapley value: 0.2579518382747968
+Client7-> Shapley value: 0.28558517854522775
+Client8-> Shapley value: 0.2537407502532005
+Client9-> Shapley value: 0.28115186674727327
+Training round:28
+Client0-> Shapley value: 0.29156758967373103
+Client1-> Shapley value: 0.2710657326711548
+Client2-> Shapley value: 0.2873583488442279
+Client3-> Shapley value: 0.2902611093940558
+Client4-> Shapley value: 0.2928268487254779
+Client5-> Shapley value: 0.27550739739780067
+Client6-> Shapley value: 0.2745648056820586
+Client7-> Shapley value: 0.28541668449287066
+Client8-> Shapley value: 0.2565463072171916
+Client9-> Shapley value: 0.27929349767941
+Training round:29
+Client0-> Shapley value: 0.29022433719149326
+Client1-> Shapley value: 0.2779386121996495
+Client2-> Shapley value: 0.2766442046200157
+Client3-> Shapley value: 0.29119974039692054
+Client4-> Shapley value: 0.2950306840280372
+Client5-> Shapley value: 0.2666280527830755
+Client6-> Shapley value: 0.2616264515374071
+Client7-> Shapley value: 0.2927499985489895
+Client8-> Shapley value: 0.2555650995758475
+Client9-> Shapley value: 0.2771600374074842
+
+
+Parameter H:10.0 Parameter K:0.3
+0: 8.369948385825387	1: 7.65769610567777	2: 7.846943743735867	3: 8.288717097181964	4: 8.375739262465919	5: 7.297333039993807	6: 7.175421593346136	7: 8.380594662955355	8: 6.784624266636277	9: 7.605156435068482	
+Shapley rank: [8, 6, 5, 9, 1, 2, 3, 0, 4, 7]
+Training round:0
+Client0-> Shapley value: 0.08466055621466957
+Client1-> Shapley value: 0.07955408660428862
+Client2-> Shapley value: 0.06104833532183891
+Client3-> Shapley value: 0.07832270168832368
+Client4-> Shapley value: 0.0941561471256945
+Client5-> Shapley value: 0.04463508504014173
+Client6-> Shapley value: 0.0597305657726431
+Client7-> Shapley value: 0.136200725547378
+Client8-> Shapley value: 0.025563646628270154
+Client9-> Shapley value: 0.0485281766761863
